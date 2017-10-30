@@ -1,2 +1,4 @@
-# gits3
-# This is the test to the S3 sync
+README File.
+This is just the simple code to create the S3 bucket using CloudFormation Template.
+
+
