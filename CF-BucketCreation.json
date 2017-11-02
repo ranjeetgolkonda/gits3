@@ -1,6 +1,6 @@
 {
     "AWSTemplateFormatVersion": "2010-09-09",
-    "Description": "This is just a sample template to create the S3 Bucket",
+    "Description": "This is just a sample template to create the S3 Bucket Version-1",
     "Parameters": {
         "BucketName": {
             "Description": "Please enter the bucket name",
